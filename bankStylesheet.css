@@ -1,0 +1,130 @@
+body {
+	background-color: #111111;
+}
+
+div{
+	margin-top: -100px;
+	margin-left: 280px;
+}
+
+#log{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	color: white;
+	margin-top: 20px;
+	margin-left: 385px;
+}
+
+form{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	font-size: 26px;
+	color: white;
+	margin-top: 50px;
+	margin-left: 550px;
+}
+
+#account {
+	color: #007700;
+	margin-left: 265px;
+	margin-bottom: -200px;
+	text-decoration: underline;
+	font-size: 50px;
+}
+
+#accountPic{
+	float: right;
+	clear: both;
+	position: relative;
+}
+
+
+#check{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	color: white;
+	float: left;
+	font-size: 40px;
+	margin-top: 80px;
+	clear: both;
+	position: relative;
+	
+}
+#save{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	color: white;
+	font-size: 40px;
+	margin-top: 80px;
+	float: left;
+	clear: both;
+	position: relative;
+}
+
+#logOut{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	color: red;
+	font-size: 40px;
+	margin-top: 130px;
+	float: left;
+	clear: both;
+	position: relative;
+}
+
+#loggedOut{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	color: red;
+	margin-top: 20px;
+	margin-left: 540px;
+	font-size: 40px;
+}
+
+#saving{
+	color: #007700;
+	margin-left: 430px;
+	text-decoration: underline;
+	font-size: 50px;
+}
+
+#checking{
+	color: #33ee22;
+	margin-left: 520px;
+	text-decoration: underline;
+	font-size: 50px;
+}
+
+#accList{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	color: #33ee22;
+	font-size: 40px;
+	margin-top: 10px;
+	margin-left: -15px;
+	float: left;
+	clear: both;
+	position: relative;
+}
+
+#home{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	color: white;
+	font-size: 40px;
+	margin-top: 80px;
+	margin-left: -260px;
+	float: left;
+	clear: both;
+	position: relative;
+}
+
+#money{
+	height: 500px;
+	width: 1500px;
+	margin-top: -500px;
+	margin-left: -500px;
+	float: left;
+	clear: all;
+	clear: both;
+}
+
+li{
+	font-weight: bolder;
+}
+
+.active{
+	color: #0011ee;
+}
